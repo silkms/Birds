@@ -1,0 +1,6 @@
+/Users/michael.silk/Dev/Birds/Birds/bin/Debug/Birds.exe
+/Users/michael.silk/Dev/Birds/Birds/bin/Debug/Birds.pdb
+/Users/michael.silk/Dev/Birds/Birds/obj/Debug/Birds.csprojAssemblyReference.cache
+/Users/michael.silk/Dev/Birds/Birds/obj/Debug/Birds.csproj.CoreCompileInputs.cache
+/Users/michael.silk/Dev/Birds/Birds/obj/Debug/Birds.exe
+/Users/michael.silk/Dev/Birds/Birds/obj/Debug/Birds.pdb
